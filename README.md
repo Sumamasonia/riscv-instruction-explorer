@@ -5,6 +5,7 @@ instr_dict.json and cross-referencing with the ISA manual.
 
 ## Installation
 
+
 ```bash
 git clone https://github.com/Sumamasonia/riscv-explorer
 cd riscv-explorer
