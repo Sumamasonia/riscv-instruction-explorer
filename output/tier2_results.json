@@ -1,0 +1,315 @@
+{
+  "matched": [
+    {
+      "jsonName": "rv64_i",
+      "manualName": "rv64i",
+      "normalizedKey": "64i"
+    },
+    {
+      "jsonName": "rv_a",
+      "manualName": "A",
+      "normalizedKey": "a"
+    },
+    {
+      "jsonName": "rv_zbb",
+      "manualName": "Zbb",
+      "normalizedKey": "zbb"
+    },
+    {
+      "jsonName": "rv_zkn",
+      "manualName": "Zkn",
+      "normalizedKey": "zkn"
+    },
+    {
+      "jsonName": "rv_zks",
+      "manualName": "Zks",
+      "normalizedKey": "zks"
+    },
+    {
+      "jsonName": "rv_zk",
+      "manualName": "Zk",
+      "normalizedKey": "zk"
+    },
+    {
+      "jsonName": "rv_zbkb",
+      "manualName": "Zbkb",
+      "normalizedKey": "zbkb"
+    },
+    {
+      "jsonName": "rv_zbs",
+      "manualName": "Zbs",
+      "normalizedKey": "zbs"
+    },
+    {
+      "jsonName": "rv_zcb",
+      "manualName": "Zcb",
+      "normalizedKey": "zcb"
+    },
+    {
+      "jsonName": "rv_zbc",
+      "manualName": "Zbc",
+      "normalizedKey": "zbc"
+    },
+    {
+      "jsonName": "rv_zbkc",
+      "manualName": "Zbkc",
+      "normalizedKey": "zbkc"
+    },
+    {
+      "jsonName": "rv_zicsr",
+      "manualName": "Zicsr",
+      "normalizedKey": "zicsr"
+    },
+    {
+      "jsonName": "rv_zkr",
+      "manualName": "Zkr",
+      "normalizedKey": "zkr"
+    },
+    {
+      "jsonName": "rv_zicond",
+      "manualName": "Zicond",
+      "normalizedKey": "zicond"
+    },
+    {
+      "jsonName": "rv_d",
+      "manualName": "D",
+      "normalizedKey": "d"
+    },
+    {
+      "jsonName": "rv_q",
+      "manualName": "Q",
+      "normalizedKey": "q"
+    },
+    {
+      "jsonName": "rv_f",
+      "manualName": "F",
+      "normalizedKey": "f"
+    },
+    {
+      "jsonName": "rv_zfhmin",
+      "manualName": "Zfhmin",
+      "normalizedKey": "zfhmin"
+    },
+    {
+      "jsonName": "rv_zifencei",
+      "manualName": "Zifencei",
+      "normalizedKey": "zifencei"
+    },
+    {
+      "jsonName": "rv_zba",
+      "manualName": "Zba",
+      "normalizedKey": "zba"
+    },
+    {
+      "jsonName": "rv_zknh",
+      "manualName": "Zknh",
+      "normalizedKey": "zknh"
+    },
+    {
+      "jsonName": "rv_zksh",
+      "manualName": "Zksh",
+      "normalizedKey": "zksh"
+    },
+    {
+      "jsonName": "rv_zksed",
+      "manualName": "Zksed",
+      "normalizedKey": "zksed"
+    },
+    {
+      "jsonName": "rv_v",
+      "manualName": "V",
+      "normalizedKey": "v"
+    },
+    {
+      "jsonName": "rv_zvkned",
+      "manualName": "Zvkned",
+      "normalizedKey": "zvkned"
+    },
+    {
+      "jsonName": "rv_zvkn",
+      "manualName": "Zvkn",
+      "normalizedKey": "zvkn"
+    },
+    {
+      "jsonName": "rv_zvbb",
+      "manualName": "Zvbb",
+      "normalizedKey": "zvbb"
+    },
+    {
+      "jsonName": "rv_zvks",
+      "manualName": "Zvks",
+      "normalizedKey": "zvks"
+    },
+    {
+      "jsonName": "rv_zvbc",
+      "manualName": "Zvbc",
+      "normalizedKey": "zvbc"
+    },
+    {
+      "jsonName": "rv_zvkg",
+      "manualName": "Zvkg",
+      "normalizedKey": "zvkg"
+    },
+    {
+      "jsonName": "rv_zvknha",
+      "manualName": "Zvknha",
+      "normalizedKey": "zvknha"
+    },
+    {
+      "jsonName": "rv_zvknhb",
+      "manualName": "Zvknhb",
+      "normalizedKey": "zvknhb"
+    },
+    {
+      "jsonName": "rv_zvksh",
+      "manualName": "Zvksh",
+      "normalizedKey": "zvksh"
+    },
+    {
+      "jsonName": "rv_zvksed",
+      "manualName": "Zvksed",
+      "normalizedKey": "zvksed"
+    },
+    {
+      "jsonName": "rv_zbkx",
+      "manualName": "Zbkx",
+      "normalizedKey": "zbkx"
+    }
+  ],
+  "jsonOnly": [
+    "rv_i",
+    "rv64_zba",
+    "rv32_zknd",
+    "rv32_zk",
+    "rv32_zkn",
+    "rv32_zkne",
+    "rv64_zknd",
+    "rv64_zkn",
+    "rv64_zk",
+    "rv64_zkne",
+    "rv_zabha",
+    "rv64_a",
+    "rv_zabha_zacas",
+    "rv_zacas",
+    "rv64_zacas",
+    "rv64_zbs",
+    "rv_zibi",
+    "rv_c",
+    "rv64_c",
+    "rv_c_d",
+    "rv32_c_f",
+    "rv32_c",
+    "rv_zcmop",
+    "rv64_zcb",
+    "rv_zicbo",
+    "rv64_zbb",
+    "rv_zcmt",
+    "rv_zcmp",
+    "rv64_zkr",
+    "rv_m",
+    "rv64_m",
+    "rv_sdext",
+    "rv_zfh",
+    "rv_zfbfmin",
+    "rv_d_zfhmin",
+    "rv64_d",
+    "rv64_zfh",
+    "rv_q_zfhmin",
+    "rv64_q",
+    "rv64_f",
+    "rv_d_zfa",
+    "rv_zfh_zfa",
+    "rv_q_zfa",
+    "rv_f_zfa",
+    "rv32_d_zfa",
+    "rv64_q_zfa",
+    "rv64_zbp",
+    "rv_h",
+    "rv_svinval_h",
+    "rv64_h",
+    "rv_zalasr",
+    "rv_smrnmi",
+    "rv_zimop",
+    "rv_system",
+    "rv64_zbkb",
+    "rv64_zks",
+    "rv_ssctr",
+    "rv_svinval",
+    "rv_s",
+    "rv64_zknh",
+    "rv32_zknh",
+    "rv_zicfiss",
+    "rv_u",
+    "rv_zvabd",
+    "rv_zvfbdot32f",
+    "rv_zvfofp4min",
+    "rv_zvfofp8min",
+    "rv_zvfbfmin",
+    "rv_zvfqbdot8f",
+    "rv_zvfqldot8f",
+    "rv_zvfwbdot16bf",
+    "rv_zvfwldot16bf",
+    "rv_zvfbfwma",
+    "rv_zvzip",
+    "rv_zvqbdot8i",
+    "rv_zvqdotq",
+    "rv_zvqldot8i",
+    "rv_zawrs",
+    "rv_zbp"
+  ],
+  "manualOnly": [
+    "Zb",
+    "Zero",
+    "Zabrocki",
+    "Zandijk",
+    "Zhang",
+    "rv32i",
+    "rv32e",
+    "rv64e",
+    "rv64imafd",
+    "rv32if",
+    "rv32ifzicsr",
+    "rv32id",
+    "rv32ifd",
+    "rv32ifdzicsr",
+    "rv32iv",
+    "rv32imacv",
+    "rv32imavc",
+    "Zknd",
+    "Zkne",
+    "Zkt",
+    "Zbk",
+    "B",
+    "L",
+    "Zfinx",
+    "Ztso",
+    "Zdinx",
+    "Zhinx",
+    "Zve",
+    "Zvl",
+    "Zvl32b",
+    "Zvl64b",
+    "Zvl128b",
+    "Zvl256b",
+    "Zvl512b",
+    "Zvl1024b",
+    "Zve32x",
+    "Zve32f",
+    "Zve64x",
+    "Zve64f",
+    "Zve64d",
+    "Zve64",
+    "Zvfhmin",
+    "Zvfh",
+    "rv64gcv",
+    "Zvknc",
+    "Zvkng",
+    "Zvksc",
+    "Zvkb",
+    "Zvknh",
+    "Zvkt",
+    "Zvksg",
+    "Zve32",
+    "Zeros"
+  ]
+}

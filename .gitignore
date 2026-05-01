@@ -1,0 +1,13 @@
+# Dependency folders
+node_modules/
+
+# Local data source clones (Jo humne sirf data ke liye use kiye)
+riscv-extensions-landscape/
+riscv-isa-manual/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
